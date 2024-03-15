@@ -9,7 +9,7 @@ This is an interactive HTML, CSS, and JavaScript code editor with real-time synt
 - Dynamic evaluation of JavaScript code.
 - Easy to use interface.
 
-## Files
+## Files 
 
 - `index.html`: Main HTML file containing the code editor interface.
 - `prism.css`: CSS file for Prism syntax highlighting.
